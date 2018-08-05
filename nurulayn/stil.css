@@ -1,0 +1,27 @@
+/*bu bir class*/
+.kodadi2023{
+	font-size: 25px;
+	font-family: Arial;
+	color: yellow;
+	text-align: center;
+}
+/*alttaki örnek etikete etki eder*/
+h1{
+	font-family: Arial;
+	color:#059165;
+}
+.resim{
+	width: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+/*bu arka plan resmi koyar
+html,body{
+	background: url(mavi.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+*/
+html,body{
+	background-color: #80a830! important;
+}
