@@ -1,4 +1,4 @@
 # Burası benim açıklama sayfam
-git add .
-git commit -m "git ogreniyorum"
-git push origin master
+git add .<br>
+git commit -m "git ogreniyorum"<br>
+git push origin master<br>
